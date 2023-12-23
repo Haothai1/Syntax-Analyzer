@@ -1,9 +1,6 @@
 # SLR Parser
 CPSC 323 Project 2: SLR Parser in Python
 
-## Group Members
-Hao Thai, James Peou, Renell Miller
-
 ### Development
 You will need Python 3+ to run this program.
 
